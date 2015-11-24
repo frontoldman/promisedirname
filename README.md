@@ -5,6 +5,7 @@
 [Documentation: Using loaders](http://webpack.github.io/docs/using-loaders.html)
 
 添加了一个名称使用上一层目录名称＋文件名命名的方式
+
 This is a ripoff of [bundle-loader](https://github.com/webpack/bundle-loader) that uses promises instead of callbacks.
 It only implements so-called `lazy` `bundle-loader` mode—that is, `require` returns a function that, when invoked, returns a promise that resolves to the module.
 
