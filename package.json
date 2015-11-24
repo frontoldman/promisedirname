@@ -1,0 +1,46 @@
+{
+  "name": "promisedirname-loader",
+  "version": "1.0.0",
+  "author": {
+    "name": "zr"
+  },
+  "description": "a webpack bundle-loader ripoff with promise interface named with dirname",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gaearon/promise-loader.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "gitHead": "7e6e311e3923996fb2bd6f6e01c9b9137b55ad9b",
+  "bugs": {
+    "url": "https://github.com/gaearon/promise-loader/issues"
+  },
+  "homepage": "https://github.com/gaearon/promise-loader",
+  "_id": "promise-loader@1.0.0",
+  "scripts": {},
+  "_shasum": "6fc7c8529c1fdfc497bef5fe7448bb61af9546cc",
+  "_from": "promise-loader@>=1.0.0 <2.0.0",
+  "_npmVersion": "2.11.0",
+  "_nodeVersion": "2.2.1",
+  "_npmUser": {
+    "name": "gaearon",
+    "email": "dan.abramov@gmail.com"
+  },
+  "dist": {
+    "shasum": "6fc7c8529c1fdfc497bef5fe7448bb61af9546cc",
+    "tarball": "http://registry.npmjs.org/promise-loader/-/promise-loader-1.0.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "gaearon",
+      "email": "dan.abramov@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/promise-loader/-/promise-loader-1.0.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
